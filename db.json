@@ -1,0 +1,36 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "text": "Ham & Cheese Sandwich",
+      "time": "5 min",
+      "ingredients": "bread(of your choice), sliced honey ham, cheddar cheese, mayonnaise",
+      "instructions": "1. Place two slices of bread out and spread mayonnaise on one sliced. 2.Add 3 slices of ham. 3.Add 2 slices of cheddar cheese. 4.Combine halves and enjoy",
+      "priority": true
+    },
+    {
+      "id": 3,
+      "text": "Cereal",
+      "time": "2 min",
+      "ingredients": "cereal (of your choice), milk",
+      "instructions": "1. Pour cereal into bowl 2.Add milk and enjoy",
+      "priority": false
+    },
+    {
+      "text": "Grilled Cheese",
+      "ingredients": "bread, cheese, butter, mayonnaise",
+      "instructions": "1. Place two slices of bread out and spread butter on inside of both slices. 2.Add 3 slices of cheese. 3.Combine halves and spread mayonnaise on both outside slices. 4.Cook on skillet on mediium for 5-6 min on each side. 5.Let cool and enjoy.",
+      "time": "15 min",
+      "priority": true,
+      "id": 5
+    },
+    {
+      "text": "PB & J",
+      "ingredients": "bread, peanut butter, strawberry jelly",
+      "instructions": "1. Spread peanut butter on one slice of bread. 2. Spread jelly on another slice. 3. Combine slices and enjoy.",
+      "time": "6 min",
+      "priority": false,
+      "id": 6
+    }
+  ]
+}
